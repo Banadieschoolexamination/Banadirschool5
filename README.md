@@ -18,7 +18,7 @@
             right: 50%;
             transform: translate(-50%,-50%);
             border-collapse: collapse;
-            width: 800px;
+            width: 900px;
             height: 300px;
        
            
